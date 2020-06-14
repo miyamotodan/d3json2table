@@ -8,9 +8,13 @@ Transforms a nested json object to an HTML table with collapsible sub tables
 - Bootstrap 4
 - JQuery 3.5.1
 
+## demo
+
+[link](https://miyamotodan.github.io/d3json2table/)
+
 ## credits
 
-From an idea by [nautat]([https://link](http://bl.ocks.org/nautat/4085017))
+From an idea by [nautat](http://bl.ocks.org/nautat/4085017)
 
 ## Licence
 
